@@ -14,3 +14,4 @@ if __name__ == '__main__':
     test_board = Board(8)
     print(test_board)
     test_board.render()
+    test_board.getQueenCoordinates()
